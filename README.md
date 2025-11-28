@@ -40,3 +40,6 @@ and sequence [A[3], A[4]] is strictly increasing (−2 < 0). Its depth is min{A[
 - Triplet (2, 3, 5) is another pit with depth 3. Triplet (5, 7, 8) is yet another pit with depth 4. There is no 
 pit in this array deeper (i.e., having depth greater) than 4.
 
+# Definition of Done 
+- Complete the solution in the QuestionTwo.cs class using GetPitDepth(int[] points) method
+-  Add another unit test for “1, 2, 3, 1, 2, 3, 1, 2, 3”. This should return 2
