@@ -74,7 +74,6 @@ Triplet (2, 3, 4) is one of pits in this array, because sequence [A[2], A[3]] is
 and sequence [A[3], A[4]] is strictly increasing (−2 < 0). Its depth is min{A[2] − A[3], A[4] − A[3]} = 2.
 Triplet (2, 3, 5) is another pit with depth 3. Triplet (5, 7, 8) is yet another pit with depth 4. There is no
 pit in this array deeper (i.e., having depth greater) than 4.
-SA Reg No 2023/555828/07 | © Trade Shield (Pty) Limited
 
 Definition of Done
 
